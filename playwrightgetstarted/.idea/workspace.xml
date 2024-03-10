@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc6cf1e8-2e9f-4b81-ab27-be9779e2fc33" name="Changes" comment="" />
+    <list default="true" id="dc6cf1e8-2e9f-4b81-ab27-be9779e2fc33" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tests/TestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tests/TestExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,17 +92,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/App.java</url>
-          <line>6</line>
-          <properties class="App" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/tests/TestExample.java</url>
-          <line>44</line>
+          <line>33</line>
           <properties class="tests.TestExample" method="shouldValidateIntroductionPage">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
